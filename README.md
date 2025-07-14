@@ -8,14 +8,6 @@ You’ve been handed a running Windows program called `victim_app.exe`. Your mis
 
 This challenge is designed to push your Windows internals and penetration testing skills to the limit. You won’t get the payload DLL upfront; instead, you must craft or discover your own DLL to inject. Once successfully injected, the payload will reveal the flag either via a popup message box or by writing it to a file named `flag.txt`.
 
-## 🧩 What You’ll Get
-
-- `victim_app.exe` — The target application running on Windows.
-- `injector.py` — A sample Python injector script to kickstart your exploration (optional).
-- `README.md` — This guide and challenge instructions.
-
-**Note:** The flag-carrying DLL (`flag_dll.dll`) is intentionally **not** provided. Creating or sourcing your own DLL is part of the challenge!
-
 ## 🔥 Your Objectives
 
 1. Analyze the running `victim_app.exe` process.
