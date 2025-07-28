@@ -1,4 +1,4 @@
-** CTF Name **  *=*  DLL Injection CTF Challenge 
+## CTF Name =  DLL Injection CTF Challenge 
 
 Inject your custom DLL into `victim_app.py` using the provided `injector.py`.
 
